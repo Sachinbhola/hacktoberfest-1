@@ -63,6 +63,12 @@
 - Bio: Software developer, studying B.Tech CSE
 - GitHub: [Abhishek Bhatt](https://github.com/ab-bh)
 
+#### Name: [sachin](https://github.com/sb)
+- Place: New Delhi, India
+- Bio: Software developer, studying B.Tech CSE
+- GitHub: [sachin](https://github.com/ab-bh)
+
+
 #### Name: [Acquila Santos Rocha](https://github.com/DJAcquila)
 - Place: Goiânia, Brasil
 - Bio: Computer Science Student
